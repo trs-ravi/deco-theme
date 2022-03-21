@@ -1,13 +1,14 @@
-@font-face {
-    font-family: 'Blanka';
-    src: url('http://fonts.cdnfonts.com/css/shorelines-script');
-}
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: Montserrat, sans-serif;
                                                 
+}
+@font-face {
+    font-family: 'Shorelines Script Bold', sans-serif';
+    src: url('http://fonts.cdnfonts.com/css/shorelines-script');
 }
 .navbar-toggler:focus, .btn, .btn:focus, .form-check-input:focus{
     outline: none!important;
