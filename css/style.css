@@ -1,4 +1,7 @@
-@import url('http://fonts.cdnfonts.com/css/shorelines-script-bold');
+@font-face {
+    font-family: 'Blanka';
+    src: url('http://fonts.cdnfonts.com/css/shorelines-script');
+}
 *{
     margin: 0;
     padding: 0;
